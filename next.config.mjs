@@ -5,7 +5,7 @@ const nextConfig = {
   reactStrictMode: true,
   experimental: {
     ppr: true,
-    // dynamicIO: true,
+    dynamicIO: true,
   },
 };
 
